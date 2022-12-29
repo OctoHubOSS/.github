@@ -6,9 +6,3 @@
 - [Website](https://gitlogs.xyz)
 - [Twitter](https://twitter.com/GithubLogs)
 - [Discord](https://discord.gg/sdf5bfJbVf)
-
----
-
-## Stack
-- [Next.JS](https://nextjs.org) - (Front-End)
-- [Tailwind](https://tailwindcss.com/) - (CSS/Styling)
