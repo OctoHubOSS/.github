@@ -4,6 +4,8 @@
 
 # Welcome to Octoflow
 
+The perfect GitHub tool for developers, stay in control of all your activities and never miss another pesky flow!
+
 Octoflow is your go-to solution for integrating GitHub event notifications with Discord. Stay updated with real-time notifications about your GitHub repositories directly in your Discord server. Whether it's commits, pull requests, issues, or deployments, Octoflow ensures your team is always in the loop.
 
 ## About Octoflow
