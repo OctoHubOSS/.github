@@ -1,35 +1,60 @@
-![](../octoflow-banner.png)
+# 🐙 Welcome to OctoHub  
+
+**Your Code, Your Hub, Your Way.**  
+
+OctoHub is an upcoming developer platform focused on **seamless collaboration, project management, and workflow automation**. Whether you’re working solo or with a team, OctoHub is designed to help you **stay organized, productive, and in control of your development process.**  
+
+> 🚧 **OctoHub is currently in development and not yet live.** Follow our progress and stay tuned for updates!  
 
 ---
 
-# Welcome to Octoflow
+## 🚀 Our Mission  
 
-The perfect GitHub tool for developers, stay in control of all your activities and never miss another pesky flow!
+At OctoHub, we believe that **development should be intuitive, efficient, and collaborative**. Our goal is to provide developers with the **tools they need to streamline workflows, manage projects, and work smarter—not harder.**  
 
-Octoflow is your go-to solution for integrating GitHub event notifications with Discord. Stay updated with real-time notifications about your GitHub repositories directly in your Discord server. Whether it's commits, pull requests, issues, or deployments, Octoflow ensures your team is always in the loop.
+### 🌟 What We Aim to Deliver:  
+- **🔗 GitHub & Git Integration** – Seamlessly manage repositories and track changes.  
+- **📌 Project Management Tools** – Organize tasks, milestones, and team workflows.  
+- **💬 Real-Time Collaboration** – Work together effortlessly, from anywhere.  
+- **⚡ Intelligent Automation** – Automate repetitive tasks and optimize efficiency.  
+- **🔒 Security & Access Control** – Maintain control over your code and team permissions.  
+- **📊 GitHub Insights & Stats** – View repository activity, contributor stats, and more directly from OctoHub.  
+- **🛠️ CI/CD Integration** – Leverage GitHub Actions for automated builds, tests, and deployments.  
 
-## About Octoflow
-
-Octoflow is designed to streamline your workflow by providing seamless integration between GitHub and Discord. With Octoflow, you can:
-
-- **Receive Real-Time Notifications**: Get instant updates on GitHub activities in your Discord channels.
-- **Customize Event Modifiers**: Tailor notifications to your needs with advanced event modifiers and filters.
-- **Enhance Collaboration**: Keep your team informed and improve collaboration with automated notifications.
-
-## Get Started
-
-To get started with Octoflow, visit our [Website](https://octoflow.ca) for detailed setup guides and documentation.
-
-## Join Our Community
-
-Stay connected and join our community for the latest updates, support, and discussions:
-
-- [Website](https://octoflow.ca)
-- [X/Twitter](https://twitter.com/HeyOctoflow)
-- [Discord](https://discord.gg/N4hnRmEJMX)
-
-We look forward to seeing you in our community and helping you make the most out of Octoflow!
+OctoHub is still **a work in progress**, but we’re actively building towards making it the go-to hub for developers!  
 
 ---
 
-Thank you for choosing Octoflow. Together, we can make GitHub notifications seamless and efficient.
+## 📢 Stay Connected  
+
+Want to follow our journey? Join our community and stay updated:  
+
+- 🐦 **Twitter/X:** [https://twitter.com/HeyOctoHub](https://twitter.com/HeyOctoHub)  
+- 💬 **Discord:** [Join Our Community](https://discord.gg/YdK8CbaK)  
+
+Your support and feedback help shape OctoHub—let’s build something great together! 🚀  
+
+---
+
+## 🔧 Open Source & Licensing  
+
+OctoHub is **open-source** and follows a **dual-license model**:  
+
+- 🔹 **Core projects, platform, and major components** → **GNU AGPL v3** (strong copyleft).  
+- 🔹 **Supporting libraries (e.g., npm modules, utilities)** → **MIT** (for broader community adoption).  
+
+More details are provided in individual repositories.  
+
+---
+
+## 📊 GitHub Activity  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octohuboss&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octohuboss&layout=compact&theme=radical)  
+
+👥 **Top Contributors:**  
+[![Contributors](https://contrib.rocks/image?repo=octohub-org)](https://github.com/octohuboss)  
+
+---
+
+🚀 **Thanks for being part of OctoHub’s journey!** We can't wait to share more with you soon. 🐙✨  
