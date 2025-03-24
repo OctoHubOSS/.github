@@ -49,11 +49,16 @@ More details are provided in individual repositories.
 
 ## 📊 GitHub Activity  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octohuboss&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octohuboss&layout=compact&theme=radical)  
+We’re an active organization on GitHub! Here’s what we’ve been working on:  
 
-👥 **Top Contributors:**  
-[![Contributors](https://contrib.rocks/image?repo=octohub-org)](https://github.com/octohuboss)  
+### 🔥 **Latest Organization Activity**  
+[![GitHub Activity](https://img.shields.io/github/commit-activity/m/OctoHubOSS?label=Commits&logo=github)](https://github.com/OctoHubOSS)  
+[![GitHub Contributors](https://img.shields.io/github/contributors/OctoHubOSS?label=Contributors)](https://github.com/OctoHubOSS)  
+[![GitHub Stars](https://img.shields.io/github/stars/OctoHubOSS?label=Stars)](https://github.com/OctoHubOSS)  
+[![GitHub Issues](https://img.shields.io/github/issues/OctoHubOSS?label=Issues)](https://github.com/OctoHubOSS)  
+
+### 👥 **Top Contributors**  
+[![Contributors](https://contrib.rocks/image?repo=OctoHubOSS/Website)](https://github.com/OctoHubOSS)  
 
 ---
 
