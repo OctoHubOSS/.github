@@ -51,14 +51,14 @@ More details are provided in individual repositories.
 
 We’re an active organization on GitHub! Here’s what we’ve been working on:  
 
-### 🔥 **Latest Organization Activity**  
-[![GitHub Activity](https://img.shields.io/github/commit-activity/m/OctoHubOSS?label=Commits&logo=github)](https://github.com/OctoHubOSS)  
-[![GitHub Contributors](https://img.shields.io/github/contributors/OctoHubOSS?label=Contributors)](https://github.com/OctoHubOSS)  
+### 🔥 **Latest Activity**  
 [![GitHub Stars](https://img.shields.io/github/stars/OctoHubOSS?label=Stars)](https://github.com/OctoHubOSS)  
-[![GitHub Issues](https://img.shields.io/github/issues/OctoHubOSS?label=Issues)](https://github.com/OctoHubOSS)  
+[![GitHub Activity](https://img.shields.io/github/commit-activity/m/OctoHubOSS/Website?label=Commits&logo=github)](https://github.com/OctoHubOSS/Website)  
+[![GitHub Contributors](https://img.shields.io/github/contributors/OctoHubOSS/Website?label=Contributors)](https://github.com/OctoHubOSS/Website)  
+[![GitHub Issues](https://img.shields.io/github/issues/OctoHubOSS/Website?label=Issues)](https://github.com/OctoHubOSS/Website)  
 
 ### 👥 **Top Contributors**  
-[![Contributors](https://contrib.rocks/image?repo=OctoHubOSS/Website)](https://github.com/OctoHubOSS)  
+[![Contributors](https://contrib.rocks/image?repo=OctoHubOSS/Website)](https://github.com/OctoHubOSS/Website)  
 
 ---
 
